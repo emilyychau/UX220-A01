@@ -1,4 +1,4 @@
-UX220 Assignment 1 start
+UX220 Assignment 1
 ===
 
 [![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/emilyychau/ux220-a01)
