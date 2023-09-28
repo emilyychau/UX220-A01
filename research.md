@@ -11,8 +11,8 @@
 <h1 style="text-align: center">References</h1>
 
 Chang, C. -X., Liang, C., Chou, P. -N., & Liao, Y. -M. (2018). Using e-portfolio for learning goal setting to facilitate self-regulated learning of high school students.
-*Behaviour & information technology, 37*(12), p.1237-1251.
+*Behaviour & information technology, 37*(12), 1237-1251.
 https://doi.org/10.1080/0144929X.2018.1496275
 
 
-Cleveland, R. E. (2018). Using Digital Portfolios: Reflection, Assessment & Employment. *TechTrends, 62*(3), p.276-285. https://doi.org/10.1007/s11528-018-0262-0
+Cleveland, R. E. (2018). Using Digital Portfolios: Reflection, Assessment & Employment. *TechTrends, 62*(3), 276-285. https://doi.org/10.1007/s11528-018-0262-0
