@@ -1,4 +1,4 @@
-<img src="CN Tower Park - D. Gari.jpg" alt="The CN tower in the background with a few other scattered buildings. The foreground has an open green space with large trees framing the sides of the image." width="192" height="292" align="right">
+<img src="CN Tower Park - D. Gari.jpg" alt="The CN tower in the background with a few other scattered buildings. The foreground has an open green space with large trees framing the sides of the image." width="192" height="292" align="right" style=padding-right:10px>
 
 **Family**
 

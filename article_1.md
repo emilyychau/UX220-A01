@@ -1,4 +1,4 @@
-<img src="London Paddington - A. Jones.jpeg" alt="A Great Western Railway (GWR) train stopped at a platform of London Paddington Station. People are busy walking up and down the length of the platform." width="225" height="300" align="right">
+<img src="London Paddington - A. Jones.jpeg" alt="A Great Western Railway (GWR) train stopped at a platform of London Paddington Station. People are busy walking up and down the length of the platform." width="225" height="300" align="right" style=padding-left:10px>
 
 **Travel**
 
